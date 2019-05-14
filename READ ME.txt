@@ -1,0 +1,6 @@
+When installing this application, make sure that the files are in your 
+M:/ drive so that the location of this READ ME is simply "M:/AI/README.txt" 
+otherwise the program will not be able to run.
+
+The application is fairly self explanatory and the controls for the car are
+simply the left and right arrow keys.
